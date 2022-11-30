@@ -1,1 +1,3 @@
-println("Hello world!")
+def call() {
+    sh "echo hello world!"
+}
